@@ -6,7 +6,7 @@ title: "Archaeology"
 Deidre Whitmore, Tim Dennis @jt14den (UCLA)
 
 ## Description
-This guide brings concepts surrounding FAIR data principles and the 23 (research data) Things program to the archaeological research domain with the aim of fostering better data practices and stewardship throughout the discipline.
+This guide brings concepts surrounding FAIR data principles and the 23 (research data) Things program to the archaeological research domain with the aim of fostering better data practices and stewardship throughout the discipline. FAIR data facilitate research by being **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable.
 
 ## Audience
 Researchers, scholars, employees, students, volunteers -- anyone working with or around data collected for archaeological research and management.
