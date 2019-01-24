@@ -91,8 +91,8 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 * Consider your current metadata practices - do they follow any schema or incorporate any vocabularies? Are your metadata fields described and documented explicitly?
 
 *Learn more*  
-* Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies at <http://www.getty.edu/research/tools/vocabularies/index.html> and  Perio.dO at <http://perio.do/en/>.
-* Consider whether these vocabularies could be incorporated into your data practices and workflow.
+* Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies at <http://www.getty.edu/research/tools/vocabularies/index.html> and  Perio.dO at <http://perio.do/en/> and consider whether these vocabularies could be incorporated into your data practices and workflow.
+* Focus on a specific research question you have worked on recently and draw a diagram that displays all of the data and metadata required to answer that question. Consider how different components relate to each other and connect them visually. Add notes about which vocabularies and thesauri could be utilized and where they fit into the diagram. Congratulations- you now have a data model! This model serves as a starting point for organizing your data and building a database and/or workflow.
 
 *Challenge me*  
 * Create a data dictionary (metadata field, type, definition, controlled vocabulary status) for a current or future project based on the metadata recommendations in the Guides to Good Practice.
